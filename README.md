@@ -1,5 +1,7 @@
 # Julianna Garreffa Resume
 
+🎉🎈🎂🍾🎊🍻💃
+
 Simple HTML wrapper embedding resume content from google drive. 
 
 ## To reuse
